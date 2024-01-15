@@ -1,3 +1,3 @@
-Best case: O(n)
+Best case: O()
 Average case: O(n^2)
 Worst case: O(n^2)
