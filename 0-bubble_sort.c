@@ -2,9 +2,13 @@
 
 /**
  * bubble_sort - Sorts an array of integers in ascending order
- * using Bubble sort.
- * @array: The array to be sorted.
- * @size: Number of elements in @array.
+ *               using the Bubble sort algorithm.
+ * @array: The array of integers to be sorted.
+ * @size: The number of elements in the array.
+ *
+ * Description: This function sorts an array of integers in ascending order
+ * using the Bubble Sort algorithm. It compares adjacent elements and swaps
+ * them if they are in the wrong order until the entire array is sorted.
  */
 void bubble_sort(int *array, size_t size)
 {
