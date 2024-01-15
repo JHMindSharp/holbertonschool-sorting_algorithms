@@ -32,8 +32,8 @@ The sorting functions are implemented in C and adhere to specified coding standa
 - **Jonathan Huybrechts**
   - GitHub: [Miniknacky](https://github.com/Miniknacky)
 
-- **David Hache**
-  - GitHub: [Hache-David](https://github.com/Hache-David)
+- **Sowa Axel**
+  - GitHub: [Sowa Axel](https://github.com/a-sowa)
 
 ## License
 
